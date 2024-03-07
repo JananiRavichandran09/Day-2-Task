@@ -20,3 +20,6 @@
 
 + By using PUT call booking new hall with the endPoint /put/:id
 
+## Technology Used
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
